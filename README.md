@@ -1,4 +1,4 @@
-# Hi there 👋 welcome!
+# Hi there 👋, I am Estelle, welcome!
 
 <!--
 **stellasia/stellasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Link to other media
+I am a Physicist turned Data Scientist turned "graphista", using graph databases such as Neo4j or ArangoDB, graph algorithms and graph machine learning. I also like to develop stuffs, using Python, React or other cool language.
 
-- Follow me on Twitter: [@st3llasia](http://twitter.com/st3llasia), that's where I post most of my interesting readings and update
-- Find a list of my publications on my [Packt's author page](https://www.packtpub.com/authors/estelle-scifo)
+I am also the author of the book ["Hands-On Graph Analytics with Neo4j"](https://www.amazon.com/gp/product/B08FBJ3B1S), published by @PacktPublishing, whose associated code can be found [here](https://github.com/PacktPublishing/Hands-On-Graph-Analytics-with-Neo4j).
 
-## GitHub
+## Projects
 
 You will find here examples of my open-sourced work:
 
@@ -28,4 +27,11 @@ You will find here examples of my open-sourced work:
 - [pygds](https://github.com/stellasia/pygds) uses some Python magic to use the Neo4j Graph Data Science plugin from Python easily (without having to write Cypher queries)
 - [l4gims](https://github.com/stellasia/l4gims) is a Django + d3.js powered website built during a hackathon (and a few more hours to go beyond the demo effect)
 
+
+## Link to other media
+
+- Follow me on Twitter: [@st3llasia](http://twitter.com/st3llasia), that's where I post most of findings and update
+- Check my [Linkedin Profile](https://www.linkedin.com/in/estellescifo/)
+- Find a list of my publications on my [Packt's author page](https://www.packtpub.com/authors/estelle-scifo)
+- I am also blogging from time to time on [medium](medium.com/st3llasia) and [my personal website](http://stellasia.github.io)
 
