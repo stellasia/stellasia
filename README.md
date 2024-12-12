@@ -23,15 +23,16 @@ I am also the author of the book ["Hands-On Graph Analytics with Neo4j"](https:/
 
 You will find here examples of my open-sourced work:
 
-- [neomap](https://github.com/stellasia/neomap) is a React based application connecting to a Neo4j graph and showing nodes with spatial attributes on a map (leaflet behind the hood)
-- [pygds](https://github.com/stellasia/pygds) uses some Python magic to use the Neo4j Graph Data Science plugin from Python easily (without having to write Cypher queries)
-- [l4gims](https://github.com/stellasia/l4gims) is a Django + d3.js powered website built during a hackathon (and a few more hours to go beyond the demo effect)
+- [Neo4j GraphRAG](https://github.com/neo4j/neo4j-graphrag) is a Python package to help you chat with your data leveraging Knowledge Graph and LLMs.
+- [neomap](https://github.com/stellasia/neomap) is a React based application connecting to a Neo4j graph and showing nodes with spatial attributes on a map (leaflet behind the hood) (ARCHIVED)
+- [pygds](https://github.com/stellasia/pygds) uses some Python magic to use the Neo4j Graph Data Science plugin from Python easily (without having to write Cypher queries) (ARCHIVED)
+- [l4gims](https://github.com/stellasia/l4gims) is a Django + d3.js powered website built during a hackathon (and a few more hours to go beyond the demo effect) (from 2019)
 
 
 ## Link to other media
 
-- Follow me on Twitter: [@st3llasia](http://twitter.com/st3llasia), that's where I post most of findings and update
+- ~Follow me on Twitter: [@st3llasia](http://twitter.com/st3llasia), that's where I post most of findings and update~
 - Check my [Linkedin Profile](https://www.linkedin.com/in/estellescifo/)
 - Find a list of my publications on my [Packt's author page](https://www.packtpub.com/authors/estelle-scifo)
-- I am also blogging from time to time on [medium](medium.com/st3llasia) and [my personal website](http://stellasia.github.io)
+- I am also blogging from time to time on [medium](medium.com/st3llasia) ~and [my personal website](http://stellasia.github.io)~
 
