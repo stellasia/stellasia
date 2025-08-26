@@ -34,5 +34,5 @@ You will find here examples of my open-sourced work:
 - ~Follow me on Twitter: [@st3llasia](http://twitter.com/st3llasia), that's where I post most of findings and update~
 - Check my [Linkedin Profile](https://www.linkedin.com/in/estellescifo/)
 - Find a list of my publications on my [Packt's author page](https://www.packtpub.com/authors/estelle-scifo)
-- I am also blogging from time to time on [medium](medium.com/st3llasia) ~and [my personal website](http://stellasia.github.io)~
+- I am also blogging from time to time on [medium](https://medium.com/st3llasia) ~and [my personal website](http://stellasia.github.io)~
 
